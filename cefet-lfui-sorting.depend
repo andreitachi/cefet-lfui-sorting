@@ -42,3 +42,15 @@
 
 1447694179 c:\users\aluno\documents\github\cefet-lfui-sorting\ordenacao.h
 
+1447694215 source:c:\users\aluno\documents\github\cefet-lfui-sorting\heapsort.cpp
+	"ordenacao.h"
+
+1447694179 source:c:\users\aluno\documents\github\cefet-lfui-sorting\insercao.cpp
+	"ordenacao.h"
+
+1447694179 source:c:\users\aluno\documents\github\cefet-lfui-sorting\quicksort.cpp
+	"ordenacao.h"
+
+1447694179 source:c:\users\aluno\documents\github\cefet-lfui-sorting\selecao.cpp
+	"ordenacao.h"
+
